@@ -1,8 +1,5 @@
 import { Link } from "react-router";
 
-
-
-''
 function Navbar({ bookedCount }) {
   return (
     <nav className="navbar">
